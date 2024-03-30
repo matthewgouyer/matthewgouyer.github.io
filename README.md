@@ -1,1 +1,3 @@
 # matthewgouyer.github.io
+
+## Education
