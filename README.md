@@ -10,8 +10,8 @@ SF Bay Area, CA
 
 
 ## Skills
-C++
-Java
+C++\
+Java\
 Assembly
 
 
@@ -26,26 +26,26 @@ Diablo Valley College - A.S. Computer Science, May 2023
 
 Diablo Valley College - A.S. Information & Comm. Technology, May 2021
 
-## ACCOLADES AND AWARDS
-Rank of Eagle Scout, Issued by Boy Scouts Of America · Dec 2018
+## Accolades and Awards
+Rank of Eagle Scout, Issued by Boy Scouts Of America, Dec 2018
 
-## RELEVANT COURSE Work
-Java
-•	Java Programming
+## Relevant Course Work
+Java\
+•	Java Programming\
 •	Data Structures and Algorithms (Currently taking Spring 2024 Semester)
 
-x86 Assembly Language in MASM
+x86 Assembly Language in MASM\
 •	Assembly Language Programming/ Computer Organization
 
-C++ & C
-•	Introduction to Programming
-•	Advanced Programming with C and C++
-•	Object-Oriented Programming
+C++ & C\
+•	Introduction to Programming\
+•	Advanced Programming with C and C++\
+•	Object-Oriented Programming\
 •	Program Design and Data Structures
 
-Computer Network Technology
-•	IT Essentials (A+)
-•	Routing/Switching Essentials
-•	Voice, Video & Network Cabling
-•	Introduction to Networks
+Computer Network Technology\
+•	IT Essentials (A+)\
+•	Routing/Switching Essentials\
+•	Voice, Video & Network Cabling\
+•	Introduction to Networks\
 •	Introduction to Cybersecurity
