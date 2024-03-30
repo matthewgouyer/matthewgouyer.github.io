@@ -1,5 +1,5 @@
 # Matthew Gouyer
-[[Download PDF](/)]
+[[Download PDF](/assets/mgouyerresume2024.pdf)]
 
 Data Science Student. Currently looking for internship positions.
 
