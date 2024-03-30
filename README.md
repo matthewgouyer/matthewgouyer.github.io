@@ -6,7 +6,7 @@ Data Science Student. Currently looking for internship positions.
 SF Bay Area, CA
 
 ## Contact
-**<gouyer.com>** | [**LinkedIn**](https://www.linkedin.com/in/matthew-gouyer/) | [**GitHub**](https://github.com/matthewgouyer)
+[**LinkedIn**](https://www.linkedin.com/in/matthew-gouyer/) | [**GitHub**](https://github.com/matthewgouyer)
 
 
 ## Skills
