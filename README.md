@@ -11,6 +11,7 @@ SF Bay Area, CA
 
 ## Skills
 C++\
+Python\
 Java\
 Assembly
 
